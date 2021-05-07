@@ -30,7 +30,7 @@
   * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
   
   
-  
+  ![image](https://user-images.githubusercontent.com/66636289/117431287-b0941b80-af46-11eb-9e20-97cb6cb5ab8e.png)
   
   
   
