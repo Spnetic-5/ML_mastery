@@ -2,6 +2,6 @@
 numpy==1.22.0
 pydantic==1.6.2
 requests==2.31.0
-fastapi==0.65.2
+fastapi==0.109.1
 scikit_learn==1.0.1
 uvicorn==0.11.8
